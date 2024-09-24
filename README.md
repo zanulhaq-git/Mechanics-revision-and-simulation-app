@@ -4,4 +4,5 @@ Full application which displays procedurally generated projectile motion questio
 Formal documentation and testing videos have been omitted for privacy reasons. 
 
 ## How do I use this app?
-Just download all the files, and run the "maincode" file.  Running the other scripts directly may result in errors.
+Just download all the files, and run the "maincode" file.  Running the other scripts directly may result in errors.  
+Modules used include:
