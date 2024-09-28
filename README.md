@@ -3,7 +3,7 @@ Full application which displays procedurally generated projectile motion questio
 
 Formal documentation and testing videos have been omitted for privacy reasons. 
 
-![alt text](https://github.com/zanulhaq-git/Mechanics-revision-and-simulation-app/blob/main/Picture1.png?raw=true)
+![alt text](https://github.com/zanulhaq-git/Mechanics-revision-and-simulation-app/blob/main/Mechanics%20revision%20app/Picture1.png?raw=true)
 
 ## How do I use this?
 Run the maincode.py file.  You will need the following modules:
