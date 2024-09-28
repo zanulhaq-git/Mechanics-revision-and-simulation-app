@@ -3,3 +3,15 @@ Full application which displays procedurally generated projectile motion questio
 
 Formal documentation and testing videos have been omitted for privacy reasons. 
 
+## How do I use this?
+Run the maincode.py file.  You will need the following modules:
+- PyAutoGui
+- PyGame 
+- Pypiwin32
+- MatPlotLib
+
+## Future updates:
+- Executable file version
+- Text formatting fix on non-1080p screens
+- Cleaner code
+- More questions types 
